@@ -1,4 +1,6 @@
 --- 
+server: 
+  port: 8085
 spring: 
   datasource: 
     password: password
