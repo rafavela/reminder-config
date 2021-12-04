@@ -4,3 +4,5 @@ reminder:
   minInteger: 1
   phraseEndpoint: "http://learner-service/reminder/v1/expression?id="
   saveEndpont: "http://admin-service/AdminReminder/v1/save"
+server: 
+  port: 8085  
