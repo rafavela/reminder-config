@@ -1,7 +1,7 @@
 --- 
 spring: 
   datasource: 
-    password: password
+    password: '{cipher}AQAfhHjyeh84QoeGPja1EoRqF6YH+U3WTp2fUSqBVlRkv3+EqE+OOLh21Og4SqszPwQsaARxHqQSEpBYElFVR0dU9OfrEmPidRPH066xcktk4ZWqXU+Wo4jDsyI4iu3RpJcq4niLUrVYaqA9RsvX86Bs2uBjJuidXX8SlVKvS6TkaKhTu+IF+DRkJp6COMFY17C0eT+dCZEKaaFRBmIs7O5E9MedBKPqmvcgUYAQw0Azp9/roJkilgzlS8HE1Rz+smb+x99Gl3Sc0iCJCZzzYs42sAkjHOKjwX3J962bP9lwOBVPVJ9Q5gM4q3N54gv4v6F3da1RRXaiqSQrqEW2/3R/k14yaPMPk+OXL3PG3dayo9aQ41Cy01lzgaug+ZkxyCA='
     url: "jdbc:postgresql://localhost:5432/videogamedb"
     username: postgres
 server: 
