@@ -4,3 +4,5 @@ spring:
     password: password
     url: "jdbc:postgresql://localhost:5432/videogamedb"
     username: postgres
+server: 
+  port: 8085
