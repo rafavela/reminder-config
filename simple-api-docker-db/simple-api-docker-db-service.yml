@@ -1,5 +1,5 @@
 spring:  
   datasource:
-    url: jdbc:postgresql://172.19.0.4:5432/videogamedb
+    url: jdbc:postgresql://videogame.cpaoqc2ivmoe.us-east-1.rds.amazonaws.com:5432/videogamedb
     username: postgres
     password: password 
